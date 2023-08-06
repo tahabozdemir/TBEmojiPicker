@@ -66,7 +66,7 @@ Color of the border of the selected emoji. The default value of this property is
 ### Grid Column Count
 Count of grid column. The default value of this property is `5`
 ```swift
- TBEmojiPicker(selectedEmoji: $selected, selectedColor: Color.orange)
+ TBEmojiPicker(selectedEmoji: $selected, columnCount: 5)
 ```
 
 ### Bottom Navigation Bar
